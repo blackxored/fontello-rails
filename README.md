@@ -1,24 +1,34 @@
 # Fontello::Rails
 
-TODO: Write a gem description
+[Fontello](https://github.com/fontello/fontello) for the Rails asset pipeline.
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem 'fontello-rails'
+Add this line to your application's Gemfile, in your assets group if you prefer:
+```ruby
+  gem 'fontello-rails'
+```
 
 And then execute:
 
-    $ bundle
+```shell
+  $ bundle
+```
 
 Or install it yourself as:
 
-    $ gem install fontello-rails
+```shell
+  $ gem install fontello-rails
+```
 
 ## Usage
 
-TODO: Write usage instructions here
+You need to be using Sass for this gem to work. Given you're setup, import
+from the desired stylesheet file:
+
+```sass
+  @import "fontello"
+```
 
 ## Contributing
 
