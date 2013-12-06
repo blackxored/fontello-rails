@@ -1,5 +1,7 @@
 # Fontello::Rails
 
+[![Gem Version](https://badge.fury.io/rb/fontello-rails.png)](http://badge.fury.io/rb/fontello-rails.png) [![Build Status](https://travis-ci.org/blackxored/fontello-rails.png)](https://travis-ci.org/blackxored/fontello-rails.png) [![Coverage Status](https://coveralls.io/repos/blackxored/fontello-rails/badge.png?branch=master)](https://coveralls.io/r/blackxored/salary_calc.rb) [![Dependency Status](https://gemnasium.com/blackxored/fontello-rails.png)](https://gemnasium.com/blackxored/fontello-rails) [![Code Climate](https://codeclimate.com/github/blackxored/fontello-rails.png)](https://codeclimate.com/github/blackxored/fontello-rails)
+
 [Fontello](https://github.com/fontello/fontello) for the Rails asset pipeline.
 
 ## Installation
