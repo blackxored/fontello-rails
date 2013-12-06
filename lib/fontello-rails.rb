@@ -1,4 +1,3 @@
-
 module Fontello
   module Rails
     require 'fontello-rails/engine'
