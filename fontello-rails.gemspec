@@ -6,8 +6,8 @@ require 'fontello-rails/version'
 Gem::Specification.new do |gem|
   gem.name          = "fontello-rails"
   gem.version       = Fontello::Rails::VERSION
-  gem.authors       = ["Adrian Perez"]
-  gem.email         = ["adrianperez.deb@gmail.com"]
+  gem.authors       = ["Adrian Perez", "Brett Minnie"]
+  gem.email         = ["adrianperez.deb@gmail.com", "github@bdb-studios.co.uk"]
   gem.description   = %q{Fontello fonts for Rails Asset pipeline}
   gem.summary       = gem.description
   gem.homepage      = ""
